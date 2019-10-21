@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Lovin RegEx"
-date:       2019-10-21 22:36:43 +0000
+title:      "Lovin' RegEx"
+date:       2019-10-21 18:36:44 -0400
 permalink:  lovin_regex
 ---
 
