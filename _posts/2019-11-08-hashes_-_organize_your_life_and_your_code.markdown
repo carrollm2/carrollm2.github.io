@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hashes - Organize Your Life and Your Code"
-date:       2019-11-09 03:38:44 +0000
+date:       2019-11-08 22:38:44 -0500
 permalink:  hashes_-_organize_your_life_and_your_code
 ---
 
