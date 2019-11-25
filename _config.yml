@@ -1,11 +1,11 @@
 # Site settings
 author: Mike Carroll
-title: Hi Everyone!
+title: Software Engineering
 header-img: img/home-bg.png
 email: carrollm2@gmail.com
 copyright_name: Mike Carroll
 description: > # this means to ignore newlines until "baseurl:"
-  RegEx
+  Learning
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  carrollm2
