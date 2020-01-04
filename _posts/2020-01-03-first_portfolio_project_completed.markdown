@@ -51,4 +51,4 @@ Lastly, I did some file renaming and moving  to hopefully make the files content
 
 This was an enjoyable, rewarding project. Although daunting at first, I loved having to brainstorm an idea and then making it happen with the skills I previously learned in the curriculum. I gained confidence not only writing code but also in using developer workflows such as Github. Looking forward to what's ahead! 
 
-https://github.com/carrollm2/hockey_equipment_deals
+[https://github.com/carrollm2/hockey_equipment_deals](http://)
