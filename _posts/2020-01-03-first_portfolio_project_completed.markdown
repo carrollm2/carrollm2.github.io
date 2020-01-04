@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Portfolio Project Completed!"
-date:       2020-01-04 03:51:59 +0000
+date:       2020-01-03 22:52:00 -0500
 permalink:  first_portfolio_project_completed
 ---
 
