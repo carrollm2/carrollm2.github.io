@@ -27,7 +27,7 @@ In order to build objects of the class type above, I would have to scrape the we
 
 After building and testing the above in repl.it, I created a repository skeleton for my project. I used the Flatiron School walk through video to guide me through the initial steps before I started adding files for the above.
 
-Then I stopped. I should have planned earlier but I was so focused on finding a website to scrape that I overlooked the second part. How would my application interact with user? I knew I wanted to present a menu to user but didn't give too much thought about the details.
+Then I stopped. I should have planned earlier but I was so focused on finding a website to scrape that I overlooked the second part. How would my application interact with user? I knew I wanted to present a menu to the user but didn't give too much thought about the details.
 
 Due to my poor planning, I basically wrote all the user interaction in the application's executable file. And it took me much longer than expected as I was finding bugs in my code as I went. After debugging, I was left with an application that worked but was a big mess to read. My functions were way too long, function names were misleading, and the list goes on and on. 
 
