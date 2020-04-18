@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Learn SQL Instantly"
-date:       2020-04-18 01:08:34 +0000
+date:       2020-04-17 21:08:34 -0400
 permalink:  learn_sql_instantly
 ---
 
@@ -15,6 +15,6 @@ This tutorial will not only give you a great walkthrough of all the types of dat
 https://www.sqlitetutorial.net/tryit/
 
 
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJimmy_Page_with_Robert_Plant_2_-_Led_Zeppelin_-_1977.jpg&psig=AOvVaw3VHBZwraEl_5pR9Je-0zX6&ust=1587257871454000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiZjMfi8OgCFQAAAAAdAAAAABAD](http://)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJimmy_Page_with_Robert_Plant_2_-_Led_Zeppelin_-_1977.jpg&psig=AOvVaw3VHBZwraEl_5pR9Je-0zX6&ust=1587257871454000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiZjMfi8OgCFQAAAAAdAAAAABAD)
 
 
