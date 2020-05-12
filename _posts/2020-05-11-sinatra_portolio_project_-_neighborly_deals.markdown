@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Portolio Project - Neighborly Deals"
-date:       2020-05-12 02:57:10 +0000
+date:       2020-05-11 22:57:11 -0400
 permalink:  sinatra_portolio_project_-_neighborly_deals
 ---
 
@@ -29,7 +29,7 @@ And each Post would have a category for the item posted (toy, fitness, music, et
 
 Therefore, I added models for Category and Post Type because Category can have many Posts as could Post Type. And each Post would belong to a Category and to a Post Type.
 
-**Security
+**Security**
 
 In order for a user to see the posts of others and to create a post themselves, they need to sign up for the app. Any account which has the same username or email account of another user will be returned to the sign up page. Once successfully signed up, their password is encrypted and stored in the database.
 
