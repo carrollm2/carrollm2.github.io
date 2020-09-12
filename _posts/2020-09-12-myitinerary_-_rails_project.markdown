@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "MyItinerary - Rails Project"
-date:       2020-09-12 21:41:09 +0000
+date:       2020-09-12 17:41:10 -0400
 permalink:  myitinerary_-_rails_project
 ---
 
@@ -63,7 +63,7 @@ Created a selected_city route which allows users to display only their upcoming 
 
 With 5 Views, refactored some repetitive code into partial views.
 
-For example, my Itinerary controller's routes for show, index and selected city displayed instances of a user's itinerary details.I created a _itinerary.html.erb inside my itineraries views where the repetitive code is relocated and also a locals variable so the instance of itinerary variable in each view can be supported inside _itinerary.html.erb
+For example, my Itinerary controller's routes for show, index and selected city displayed instances of a user's itinerary details. I created a _itinerary.html.erb inside my itineraries views where the repetitive code is relocated and also a locals variable so the instance of itinerary variable in each view can be supported inside _itinerary.html.erb
 
 **Controllers**
 
@@ -104,4 +104,4 @@ In the end, I learned a ton through researching different project requirements.
 
 **Things I would do differently**
 
-Definitely join more Flatiron Study Sessions even if you don't have a particular question. It's good to hear what others are experiencing and the questions they have. Often, you will struggle in the same areas and it's good to hear other student's their ideas and challenges.
+Definitely join more Flatiron Study Sessions even if you don't have a particular question. It's good to hear what others are experiencing and the questions they have. Often, you will struggle in the same areas and it's good to hear other student's ideas and challenges.
