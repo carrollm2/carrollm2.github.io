@@ -63,7 +63,7 @@ Created a selected_city route which allows users to display only their upcoming 
 
 With 5 Views, refactored some repetitive code into partial views.
 
-For example, my Itinerary controller's routes for show, index and selected city displayed instances of a user's itinerary details. I created a _itinerary.html.erb inside my itineraries views where the repetitive code is relocated and also a locals variable so the instance of itinerary variable in each view can be supported inside _itinerary.html.erb
+For example, my Itinerary controller's routes for show, index and selected city displayed instances of a user's itinerary details. I created an _itinerary.html.erb inside my itineraries views where the repetitive code is relocated and also a locals variable so the instance of itinerary variable in each view can be supported inside _itinerary.html.erb
 
 **Controllers**
 
