@@ -31,7 +31,7 @@ There was a lot of information to digest in the Rails/JS Module so I had to slow
 
 After a couple days, I started to slowly understand how my frontend and backend were communicating with each other.
 
-As it starting coming together for me, I was able to create functionality allowing users to create, update, and remove data from the database and DOM. 
+As it starting coming together for me, I was able to create functionality allowing users to create, update, and remove Stock data from the database and DOM. 
 
 Similar to the past projects I completed, this project really required me to dig and keep asking myself questions on each line and that line's significance. 
 
