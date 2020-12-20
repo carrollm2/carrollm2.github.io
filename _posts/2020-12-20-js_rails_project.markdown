@@ -22,9 +22,6 @@ I finally decided to create a separate data folder and yaml file. This allowed t
 ### Backend Testing
 Now that I established my API's backend, I needed to test the previous relationships I created earlier. Using rails console sandbox (on the command line, rails c -s). Inside the rails console sandbox, I determined I could create instances of Stock and Ratio as well as their appropriate relationships. Time to move on to the frontend!!!
 
-![](https://pixy.org/src2/574/5745553.jpg)
-
-
 ### Frontend
 Getting to this point, I knew I still had a big mountain to climb. Event Listening and fetching were two areas where my comfortability decreased. 
 
