@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails/React Project"
-date:       2021-03-17 01:59:11 +0000
+date:       2021-03-16 21:59:12 -0400
 permalink:  rails_react_project
 ---
 
